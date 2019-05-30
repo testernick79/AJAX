@@ -1,0 +1,11 @@
+{
+    "name": "Mason Smith Jimbo Adams",
+    "age": 45,
+    "favorite programming languages" : [
+        { "language": "JavaScript", "use": "web-scripting"},
+        { "language": "Python", "use": "back-end scripting"},
+        { "language": "C#", "use": "web-scripting"},
+        { "language": "Ruby", "use": "back-end framworks and scripting"},
+        { "language": "SQL", "use": "DATABASES"}
+    ]
+}
